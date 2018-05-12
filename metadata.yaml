@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36053
     wikipedia: http://en.wikipedia.org/wiki/Charles_Franklin_Thwing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32803#Letters-from-a-Father-to-His-Son-Entering-College
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
 identifiers:
