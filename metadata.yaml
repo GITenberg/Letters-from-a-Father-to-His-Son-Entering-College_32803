@@ -1,0 +1,31 @@
+_repo: Letters-from-a-Father-to-His-Son-Entering-College_32803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thwing, Charles Franklin
+    alias: Thwing, Charles F. (Charles Franklin)
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '36053'
+    url: http://www.gutenberg.org/2009/agents/36053
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Franklin_Thwing
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'College ethics'
+tableOfContents: Thought -- The essential gentleman -- Health as an asset -- Appreciation
+  -- Scholarship -- The intellectual life -- The use of time -- Culture -- College
+  morals -- Weakness of character -- The genesis of success -- Religion.
+title: Letters from a Father to His Son Entering College
+url: http://www.gutenberg.org/ebooks/32803
